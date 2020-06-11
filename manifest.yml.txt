@@ -1,4 +1,0 @@
----
-applications: imageclassificationappsujoy
-- memory: 128MB
-  
